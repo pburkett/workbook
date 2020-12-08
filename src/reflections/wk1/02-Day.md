@@ -1,5 +1,5 @@
  # Day 2
- __12/07/2020__
+ __12/01/2020__
  
  ## What is a Pseudo-Class and what are some of the most common ones you think you will use?
     A pseudo-class is a CSS class that applies it's attributes when certain parameters are met. For example, the ':hover' pseudo class is applied when the element has the mouse hovered over it. I think the hover pseudo class is the most useful for simple aesthetic purposes for the user.

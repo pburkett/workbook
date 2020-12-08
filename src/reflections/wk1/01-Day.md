@@ -1,5 +1,5 @@
 # Day 1 
-__11/20/2020__
+__11/30/2020__
 
 ## What is Git, and why is it useful?
 Git is a version control system. Git is useful because it allows developers to track the changes they make to their code. If a developer wants to revert to an old version of their code, Git makes that old code easily available. Git essentially gives developers greater control over their workflow, and helps them adapt to issues quickly.
