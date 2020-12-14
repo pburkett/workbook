@@ -1,0 +1,11 @@
+# Day 9
+__12/10/2020__
+
+## What are the benefits of making a plan before starting to write code?
+This question is really quite similar to the question I discussed on my day 4 entry, about wire-framing in UI development. Planning allows you to the opportunity to make decisions in the broader scope of your code. These decisions are crucial, and can be postponed if you immediately jump into writing code before making them. Planning your code will help minimize refactoring as well, as the code you write is more likely to fit into the bigger picture the first time around. Having a plan will help minimize unnecessary code as well. When you ask yourself "do I need this?" the answer should come from "is it necessary to make this code function as outlined in my plan?". Similar to the discussion on wire-framing, your plan is not the end-all be-all of your code. Some decisions may be overturned as the program is built up and tested. When it comes to adding major additional functionality, you most likely want to meet the standards of your plans first. Logging ideas for new functionality for later use is wise!
+
+## How do you find answers when you are stuck?
+Google it! Many of the problems you face have already been faced, in a hundred different contexts by a thousand different people. Ask a human who has experience with it! Unless you're fully solo, it's likely that you have access to people with some level of experience with the problems you're facing. 
+
+## From the entire article, what are your biggest takeaways?
+My biggest takeaway is that coding is about solving problems in the simplest way. It requires a healthy dose of planning, and a healthy demarkation between coding and planning. For example, attempting to optimize code before writing it is a bad practice. Similarly, writing code for functionality you *think* you *might* want later on is also a bad practice. Some of the bad practices the article advises against are connected to simple human nature. For example, it is human nature to gravitate towards tools we have familiarity with, even if there may be other tools far better suited to the task at hand.
