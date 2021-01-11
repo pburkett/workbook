@@ -16,3 +16,6 @@ URLs in RESTful APIs should look like: `resource/identifier/resource`, or shallo
 
 `https://pokeapi.co/api/v2/pokemon/tepig` directs to a resource which holds the full state of Tepig, one of many Pokemon. Individual pokemon can also be located by ID. For example, `https://pokeapi.co/api/v2/pokemon/498` also directs to the Tepig resource.
 
+# Daily Project:
+https://github.com/pburkett/itunes-wep-app
+

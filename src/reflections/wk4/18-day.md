@@ -9,3 +9,6 @@ The function must be declared with 'async' to indicate it is asynchronous. Then,
 
 ## What are some of the primary benefits of async / await?
 Async and await allow us to chain async events without as much restriction as promises. Async and await often produce simpler syntax that is easier to read.
+ 
+# Daily Project: 
+https://github.com/pburkett/pokedex

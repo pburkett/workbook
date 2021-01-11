@@ -9,3 +9,6 @@ Promises seek to solve hellish callback issues by giving us the syntax to separa
 
 ## What is the difference between .then() and .catch()?
 The keywords "then" and "catch" are both used to handle javascript promises. "then()" is used to capture the resolved status of the promise within the (), and "catch()" is used to capture the failed status. Both keywords can be followed up with code to execute upon the resolution of the promise. Which block is executed is dependent on the outcome of the promise.
+
+# Daily Project:
+https://github.com/pburkett/winter2020-mvc-gregslist

@@ -9,3 +9,6 @@ Asynchronous means "not at the same time". In software, it means "not in a predi
 
 ## Describe three ways to fix or prevent Callback Hell.
 To avoid callback hell, we should build functions that perform our different tasks, and call to those instead of placing the code directly. It can be helpful to think of one block of code managing the order or timing of many functions by calling out to them. Fortunately, using MVC gets us pretty far from callback hell already. We can split different operations between services, controllers, and models. If we still find our sequence of callbacks to be too verbose, we can connect multiple services.
+
+# Daily project:
+https://github.com/pburkett/small-triva-app
