@@ -9,3 +9,6 @@ Lifecycle hooks are used whenever we need to perform actions in relation to the 
 
 ## What are mounting hooks? When might you use them?
 The `onMounted` hook will execute it's given code when the component is mounted to the DOM. This means the component will be fully instantiated and all methods will be available, but the component won't be rendered yet. It's common to use this to fire API calls from your service files for some simplistic lazy-loading in your application.
+
+Daily Project:
+https://github.com/pburkett/gregslist-vue

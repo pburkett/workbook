@@ -9,3 +9,6 @@ Building with components helps us organize our software into *functionality-base
 
 ## What are some drawbacks to component based architecture?
 The main drawback to component architecture is that sometimes, building components for a program is overkill. Not all programs are equal in complexity. For more simple programs, building components may increase the number of files and imports needed without much benefit in organization. Components can degrade readability if not used with forethought; simple programs or elements may not require component-ization.
+
+Daily Project:
+https://github.com/pburkett/vue-playground-1

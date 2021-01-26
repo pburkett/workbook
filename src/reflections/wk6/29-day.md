@@ -9,3 +9,6 @@ Route nesting could be useful when building a social media site that provides ma
 
 ## Can you pass parameters through nested routes? When might you use them?
 You can pass parameters through routes, following the familiar use of `:` withing the router. This would be useful anytime your routing is dynamic, and/or follows a `collection/ID` format in which you need access to that ID. This is probably pretty common in nested routes, considering that increased abstraction when representing one-to-many relationships is one of the main reasons to use a nested route.
+
+Daily Project:
+https://github.com/pburkett/pokedex-vue
