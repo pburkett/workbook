@@ -33,7 +33,7 @@ The vue router mounts pages into the App component. Your App.vue file serves as 
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-AppState holds data which is accessible from anywhere in your program, with an appropiate import. Your AppState will never import any of your services and components, which means you can safely import AppState anywhere in your program. The state object within a component is only accessible from within that component. The state object is often used for data that is local to that component, for example, data that contrls how that component renders. 
+AppState holds data which is accessible from anywhere in your program, with an appropiate import. Your AppState will never import any of your services and components, which means you can safely import AppState anywhere in your program. The state object within a component is only accessible from within that component. The state object is often used for data that is local to that component, for example, data that controls how that component renders. 
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
