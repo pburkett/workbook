@@ -1,5 +1,5 @@
 # Day 41
-## __2/10/2012__
+## __2/14/2012__
 
 ## What technologies and principles are you using in your project?
 Our technologies are Vue.js, Express.js, SASS + bootstrap, Mongo DB, and Google's map API. Personally, I'm going to be thinking about following the single responsibility principle when writing Services on the server and client side, since my usage of that principle has been lacking in other projects.
